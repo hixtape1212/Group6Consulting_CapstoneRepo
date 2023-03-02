@@ -40,7 +40,7 @@ Combined they both contained the necessary information that we needed. The Numbe
 Domestic gross, worldwide gross, and production budget were cleaned to be integers, and a column for ROI calculated as (Worldwide Gross – Production Budget) / Production Budget, was added to the dataset. Duplicate movie titles were dropped, and we now had a workable data set to run analysis from. 
 
 ### Genre Analysis and Hypothesis Test
-
+We used IMDB and The Numbers data sets to identify which movie genres we can recommend based on analysis from the average worldwide gross, domestic gross, budget gross and compared this factors to a calculated ROI, we did some hypothesis testing to judge whether a genre in the population is compatible with the observed ROI of a sample of that genre, this in order to show an idea of which films generate the most money, the most expensive to make and, of course, the best ones that are worth investing in producing.
 
 ### Diminishing Returns Based off Budget
 
