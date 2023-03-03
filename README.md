@@ -10,7 +10,7 @@
 # Relevant Files
 
 * [***Jupyter Notebook:***](Group6-MovieAnalysis.ipynb) Here's the link to our teams Jupyter Notebook. This notebook will walk through our analysis.
-* [***Presentation:***](Intensive-Capstone-Presentation.pdf) Here's the link to our teams presentation. It includes our recommendations and analysis findings.
+* [***Presentation:***](Group6Presentation.pdf) Here's the link to our teams presentation. It includes our recommendations and analysis findings.
 
 
 # Project Overview
