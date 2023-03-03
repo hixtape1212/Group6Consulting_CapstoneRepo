@@ -45,4 +45,5 @@ We used IMDB and The Numbers data sets to identify which movie genres we can rec
 ### Diminishing Returns Based off Budget
 
 
-### RunTime Confidence Intervals
+### RunTime to Movie Rating
+We used the IMDB database to identify whether there is a correlation between a movie's runtime and its rating. We used the process of first finding the mean rating of all the movies in the database, then we created a dataframe that dropped the movies that had a rating below the population's mean. From there we created a density graph and then made a recommendation of ideal runtime to optimize the movie's rating. 
